@@ -1,0 +1,15 @@
+{
+  "background_color": "#fff",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "assets/hello_world.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "name": "Hello World",
+  "short_name": "Hello World",
+  "start_url": "index.html?launcher=true",
+  "theme_color": "#000"
+}
