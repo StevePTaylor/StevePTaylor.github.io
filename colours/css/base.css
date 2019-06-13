@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+}
+
+body,
+button {
+  color: var(--brand-colour);
+  font-family: var(--primary-font-family);
+  font-size: var(--default-font-size);
+  line-height: var(--default-line-height);
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}

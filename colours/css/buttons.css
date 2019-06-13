@@ -1,0 +1,16 @@
+.button {
+  border: none;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  margin: 5px;
+  min-height: 45px;
+  outline: none;
+  text-transform: lowercase;
+  transition: background 0.2s ease, transform 0.2s ease;
+  width: 100%;
+}
+
+ .button:hover {
+   transform: scale(1.05);
+ }

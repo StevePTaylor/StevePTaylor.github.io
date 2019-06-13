@@ -1,0 +1,14 @@
+:root {
+  --background-colour: #f7f8f9;
+  --body-colour: #e5e8ea;
+  --brand-colour: #001539;
+  --colour-red: #ef3340;
+  --colour-green: #00ab84;
+  --colour-blue: #0085ca;
+  --colour-cyan: #14a3c7;
+  --colour-magenta: #f1b2dc;
+  --colour-yellow: #fedd00;
+  --default-font-size: 18px;
+  --default-line-height: 1.5;
+  --primary-font-family: 'Roboto', sans-serif;;
+}
